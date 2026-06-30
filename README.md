@@ -31,7 +31,7 @@ Transliteration (Aksharamukha / IndicXlit)
 ->
 Roman Kannada Output
 
-Note: Roman Kannada means writing the Kannada language using the English (Latin) alphabet instead of Kannada script.
+`Note: Roman Kannada means writing the Kannada language using the English (Latin) alphabet instead of Kannada script.`
 ---
 
 ## Tech Stack
