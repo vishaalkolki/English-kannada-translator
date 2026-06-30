@@ -31,7 +31,7 @@ Transliteration (Aksharamukha / IndicXlit)
 ->
 Roman Kannada Output
 
-`Note: Roman Kannada means writing the Kannada language using the English (Latin) alphabet instead of Kannada script.`
+Note: Roman Kannada means writing the Kannada language using the English (Latin) alphabet instead of Kannada script.
 ---
 
 ## Tech Stack
@@ -53,3 +53,10 @@ pip install -r requirements.txt
 
 ## Example query: 
 How is the weather in Bengaluru today and what are the famous food items I can try there?
+
+
+This is normal text.
+
+Note: this is a note.
+
+This is also normal text.
