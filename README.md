@@ -22,13 +22,13 @@ A Streamlit-based application that translates English text into Kannada using a 
 
 ## Pipeline:
 English Text
-↓
+->
 LLM (TranslateGemma)
-↓
+->
 Kannada Script
-↓
+->
 Transliteration (Aksharamukha / IndicXlit)
-↓
+->
 Roman Kannada Output
 
 Note: Roman Kannada means writing the Kannada language using the English (Latin) alphabet instead of Kannada script.
@@ -49,6 +49,7 @@ Note: Roman Kannada means writing the Kannada language using the English (Latin)
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Example query: 
 How is the weather in Bengaluru today and what are the famous food items I can try there?
